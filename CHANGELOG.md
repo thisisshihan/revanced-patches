@@ -1,3 +1,10 @@
+# [2.142.0-dev.2](https://github.com/revanced/revanced-patches/compare/v2.142.0-dev.1...v2.142.0-dev.2) (2022-12-11)
+
+
+### Features
+
+* `predictive-back-gesture` patch ([#1236](https://github.com/revanced/revanced-patches/issues/1236)) ([91dd8ff](https://github.com/revanced/revanced-patches/commit/91dd8ffecb75e57cd9cf8bbc30566d9831a1c220))
+
 # [2.142.0-dev.1](https://github.com/revanced/revanced-patches/compare/v2.141.0...v2.142.0-dev.1) (2022-12-09)
 
 
